@@ -7,3 +7,5 @@ Team members:
 1) We decided to work on the tests that were failing :
     *List the tests failing (package and class) and try to fix them
     
+2)We tryed to understand an issue with the JS interpreter (It was only on 1 computer)
+    
