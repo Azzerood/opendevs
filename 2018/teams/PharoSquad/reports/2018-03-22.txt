@@ -1,0 +1,28 @@
+Pharo Squad Week 10 report
+Team members:
+     AIT ELHAJ Azzedine
+     HUGOT Jean-Michel
+     WATRELOS Jérémy
+     
+     
+This week, we had 1 first concern that was deciding the version of Pharo we would use.
+
+1) First, we tried to install PharoJS on PHARO 7 but it didn't work, we had theerror on Linux and Windows.
+
+2) We decided to go back to Pharo 6
+
+3) We continued running the test packages and created 4 issues about them
+
+  *Issue #1: the first issue we made was about the interpreter, because we were trying to run tests and many of the errors we got were coming from the interpreter.
+     link : https://github.com/bouraqadi/PharoJS/issues/5
+  
+  *Issue #2 : The second one was about pharoJS not installing on Pharo7
+     link: https://github.com/bouraqadi/PharoJS/issues/7
+     
+  *Issue #3: The third one reports a bridge problem, that causes tests to crash and the browser to use too much memory.
+     link: https://github.com/bouraqadi/PharoJS/issues/8
+     
+  *Issue #4: The last issue states that one test package opens too many tabs in the browser and may crashes the computer.
+     link: https://github.com/bouraqadi/PharoJS/issues/9
+     
+4) 
