@@ -33,3 +33,4 @@ This week, we had 1 first concern that was deciding the version of Pharo we woul
  
 6) We also reported a bug about PillarJs wich was the previous project we wanted to work on
  link: ticket 21262 "OSSubProcess on Linux 64bits (Pharo 7.0) Failed to load"
+       https://pharo.fogbugz.com/f/cases/21262/OSSubProcess-on-Linux-64bits-Pharo-7-0-Failled-to-load
