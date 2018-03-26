@@ -25,4 +25,11 @@ This week, we had 1 first concern that was deciding the version of Pharo we woul
   *Issue #4: The last issue states that one test package opens too many tabs in the browser and may crashes the computer.
      link: https://github.com/bouraqadi/PharoJS/issues/9
      
-4) 
+4) We made some improvements to the Pharo page aswell (mainly to improve the navigation, and add newest documents)
+ link: https://github.com/PharoJS/pharojs.github.io/pull/1
+
+5) We also added a bug on the Pharo BugTracker. We used to encounter infinite loop while trying to discover the Debugger. So we thought we might add an issue about it.
+ link: https://pharo.fogbugz.com/f/cases/21261/Step-Over-Bottom-of-the-Stack-produces-an-Infinite-Loop-on-Debugger-in-Pharo-6-1
+ 
+6) We also reported a bug about PillarJs wich was the previous project we wanted to work on
+ link: ticket 21262 "OSSubProcess on Linux 64bits (Pharo 7.0) Failed to load"
